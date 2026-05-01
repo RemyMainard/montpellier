@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Place de la Comédie",
+    "description": "Le cœur battant de Montpellier. Cafés en terrasse, fontaines des Trois Grâces et agitation permanente.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "L'Écusson",
+    "description": "Le quartier historique aux ruelles médiévales, hôtels particuliers et boutiques indépendantes.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Les Plages du Palavas",
+    "description": "À 12 km du centre, les plages méditerranéennes s'étendent à perte de vue sous un soleil omniprésent.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Le Jardin des Plantes",
+    "description": "Le plus ancien jardin botanique de France. Une oasis de verdure et de sérénité en plein cœur de ville.",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Marché du Lez",
+    "description": "Le spot lifestyle branché de Montpellier. Street food, créateurs locaux, concerts et brocante le week-end.",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Promenade du Peyrou",
+    "description": "Esplanade royale avec arc de triomphe et vue panoramique sur la ville et les Cévennes.",
+    "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=800&q=80"
+  }
+]
