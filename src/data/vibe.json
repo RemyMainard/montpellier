@@ -1,0 +1,29 @@
+{
+  "headline": "Une ville qui vit à 300 jours de soleil par an",
+  "description": "Montpellier, c'est la ville méditerranéenne qui a su rester authentique. Entre ses ruelles historiques et ses quartiers branchés, entre l'université et les startups, entre la plage et la garrigue — une énergie unique que l'on ressent dès qu'on y pose les pieds.",
+  "stats": [
+    { "value": "300", "unit": "jours de soleil", "label": "par an" },
+    { "value": "100k", "unit": "étudiants", "label": "1ère ville étudiante de France" },
+    { "value": "12km", "unit": "de la mer", "label": "Méditerranée à portée de vélo" }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "L'Étudiant",
+      "emoji": "🎓",
+      "descriptor": "Vie culturelle, coût abordable, soleil garanti"
+    },
+    {
+      "id": 2,
+      "name": "Le Nomade",
+      "emoji": "💻",
+      "descriptor": "TGV Paris en 3h20, coworking, qualité de vie"
+    },
+    {
+      "id": 3,
+      "name": "La Famille",
+      "emoji": "🌿",
+      "descriptor": "Nature, plages, écoles, rythme de vie apaisé"
+    }
+  ]
+}
